@@ -1,0 +1,12 @@
+@import "flexbox.css";
+@import "reset.css";
+@import "barra_nav.css";
+@import "menu.css";
+
+
+
+body {
+	background-color: #F2F5F7;
+	font-family: 'Open Sans',Arial,sans-serif;
+}
+

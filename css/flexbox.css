@@ -1,0 +1,11 @@
+.cont_principal{
+    display: flex;
+	flex-wrap: wrap;
+    
+}
+
+.cont_postres{
+    
+    display: flex;
+	width: 23%;
+}
