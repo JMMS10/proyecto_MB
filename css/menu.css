@@ -55,10 +55,36 @@
 	height: 50px;
 	margin: 10px auto;
 }
-
-.cont_postres:nth-child(even) a:before{
-	background: url(../img/4301507birdthdaycakecheesedessertpiecestrawberrytopping-115938_115904.svg) no-repeat;
+/*tarta*/
+.cont_postres:nth-child(1) a:before{
+	background: url(../img/tarta_adobe_express.svg) no-repeat;
 }
+
+/*porciones*/
+.cont_postres:nth-child(2) a:before{
+	background: url(../img/porcion.png) no-repeat;
+}
+
+/*pasteles*/
+.cont_postres:nth-child(3) a:before{
+	background: url(../img/pastel.png) no-repeat;
+}
+
+/*Alfajores*/
+.cont_postres:nth-child(4) a:before{
+	background: url(../img/alfajor\ nuevo.png)no-repeat;
+}
+/*Chocotejas*/
+.cont_postres:nth-child(5) a:before{
+	background: url(../img/chocoteja.png) no-repeat;
+}
+
+/*Galleta*/
+.cont_postres:nth-child(6) a::before{
+    background: url(../img/galletas.svg);
+}
+
+    
 
 
 @media(min-width: 769px) {
