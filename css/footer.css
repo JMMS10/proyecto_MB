@@ -1,0 +1,36 @@
+.rodapie{
+    background-color: #ffe8e8;
+}
+
+.footer_descripcion{
+    
+    color: darkgrey;
+    font-weight: bold;
+	font-size: 32px;
+	margin-bottom: 10px;
+	text-align:center;
+}
+
+.lista-footer{
+    margin-right:25px;
+    list-style: none;
+    display: flex;    
+    justify-content:end;
+
+}
+
+.footer-item{
+   margin: 25px 25px 25px 25px;
+}
+
+.footer-item:hover{
+    text-decoration: underline;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+.footer-icon{
+    color: black;
+    text-decoration: none;
+
+}
+
